@@ -13,5 +13,6 @@
 # Ссылки 
 Видео - [YouTube]()
 
-Скачать - [Релизы]()
+Скачать - [Релизы](https://github.com/XDe0/Portal-Menu/releases/tag/v1.0)
 
+Спасибо [Alprnn357]() за туториалы в создании!
